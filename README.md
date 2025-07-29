@@ -53,7 +53,7 @@ This framework helps identify valuable customer segments and guides strategic ma
 
 ### Data Processing
 
-The link for the SQL query: [Add SQL Query Link Here]
+The link for the SQL query: https://github.com/netely313/CLV-RFM-Analysis/blob/main/SQL_Code_CLV.sql
 
 ## 📈 Results & Visualizations
 
